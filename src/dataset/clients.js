@@ -1,9 +1,9 @@
 module.exports = [
     {
-        "name": "Jonh",
-        "email": "ptipaca06@gmail.com",
+        "name": "JnJn",
+        "email": "mjnh123456@gmail.com",
         "clientId": "JN-H",
-        "pricePerSession": 22,
+        "pricePerSession": 100,
         "address": "",
         "city": "",
         "state": "",
@@ -11,32 +11,10 @@ module.exports = [
         "postal_code": ""
     },
     {
-        "name": "Pierre-Henri",
-        "email": "phbord@gmail.com",
+        "name": "Pierre-Hou",
+        "email": "testemailab@gmail.com",
         "clientId": "PH-B",
-        "pricePerSession": 20,
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "France",
-        "postal_code": ""
-    },
-    {
-        "name": "Nourdine",
-        "email": "trifinourdine@outlook.fr",
-        "clientId": "NO-NO",
-        "pricePerSession": 25,
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "France",
-        "postal_code": ""
-    },
-    {
-        "name": "Thomas Thirion",
-        "email": "thirionthomas68100@gmail.com",
-        "clientId": "THOM-THI",
-        "pricePerSession": 25,
+        "pricePerSession": 150,
         "address": "",
         "city": "",
         "state": "",
