@@ -9,7 +9,6 @@ const sendGmail = async (destination, messageHtml, subject, files) => {
         const send = gmailSend({
             html: messageHtml,
             user: SENDER_EMAIL,
-            bcc: 'njivaolaf.coaching.management@gmail.com',
             pass: SENDER_PASS,
             to: destination,
             subject,
